@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:Laajf/gg314.git"}
   },
   "keywords": [],
   "author": "",
